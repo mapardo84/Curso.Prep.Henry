@@ -90,6 +90,7 @@ function fizzBuzz(numero) {
     return 'fizz';
   }
   else{
+    
     return numero;
   }
 }
