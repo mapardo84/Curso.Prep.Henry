@@ -1,0 +1,12 @@
+- Variables son espacios de memoria que se utilizan para guardar información o datos que posteriormente puede ser utilizada
+para hacer operaciones o cualquier otro tipo de instrucciones.
+
+- Strings son un tipo de variables que permite almacenar datos como caracteres, sean letras, números o signos.
+- Funciones (argumentos, return) son porciones de código o instrucciones agrupados para realizar una operación o 
+función especifica utilizando unos argumentos como datos de entrada y generando un return como salida.
+
+- Declaraciones if es una herramienta que permite la ejecución de ciertas instrucciones de manera condicional, es decir,
+esto evalua si se cumple una condición dada y luego  ejecutar o no un grupo de instrucciones.
+
+- Valores booleanos (true, false) son un tipo de datos binario o que solo pueden tomar dos valores: true (verdadero)
+o false (falso). Estos son útiles para la utilización de if u otra instrucción que evalua condiciones.
