@@ -1,0 +1,1 @@
+Array es una lista de datos que puede ser de diversos tipos (booleano, numerico o string).
