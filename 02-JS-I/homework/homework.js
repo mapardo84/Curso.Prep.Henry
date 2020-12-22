@@ -213,4 +213,4 @@ module.exports = {
   combinarNombres,
   obtenerSaludo,
   obtenerAreaRectangulo,
-};
+}; 
