@@ -1,0 +1,10 @@
+Un objeto es un conjunto de propiedades y valores especificos asociados a ellas que caracterizan dicho 
+objeto.
+Las propiedades es un tipo de dato que contienen valores e indican una forma de identificar dicho valores.
+Los metodos son propiedades cuyo valor son definidos por una función. Es decir, la función será la que 
+defina el valor de esta propiedad, llamada método.
+El bucle for...in, es el metodo iterativo para recorrer los objetos, puesto que diferencia de los arreglos, 
+cuyos objetos son identificados por indices numéricos, estos son identificados por indices tipo string.
+La notación de punto es una forma de accedor a los valores de las diferentes propiedades de un objeta de
+con una sintaxis directamente adaptada en la instrucción. La notación por corchetes, funciona como un array,
+en que entre los [] indicamos el nombre de la propiedad a la que queremos acceder. 
