@@ -1,0 +1,5 @@
+Prototype es un conjunto de un o varios métodos que son parte de una clase y que pueden ser utilizados 
+por cualquier objeto de dicha clase.
+
+Contructor es una especie de plantilla que permite caracterizar varios objetos que comparten la misma
+información (propiedades y métodos)
